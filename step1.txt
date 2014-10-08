@@ -1,4 +1,5 @@
 lksjadijfalsik
+<<<<<<< HEAD
 
 sdgfdsg
 s
@@ -7,3 +8,10 @@ gsrdfg
 dsagserdgyjt
 sthtrh424365
 5w54542w
+
+sdagf
+gfg
+siema
+
+=======
+>>>>>>> parent of d777423... programowanie
